@@ -15,3 +15,8 @@
 # What is Responsive Web Design?
 
 Responsive web design is about creating web sites which automatically adjust themselves to look good on all devices, from small phones to large desktops.
+
+# HTML DOM
+1. The HTML DOM is a standard object model and programming interface for HTML.
+2. The HTML DOM is a standard for how to get, change, add, or delete HTML elements.
+3. The HTML DOM document object is the owner of all other objects in your web page.
