@@ -20,3 +20,12 @@ Responsive web design is about creating web sites which automatically adjust the
 1. The HTML DOM is a standard object model and programming interface for HTML.
 2. The HTML DOM is a standard for how to get, change, add, or delete HTML elements.
 3. The HTML DOM document object is the owner of all other objects in your web page.
+
+# Debouncing
+In the debouncing technique, no matter how many times the user fires the event, the attached function will be executed only after the specified time once the user stops firing the event.
+
+# Throttling
+Throttling is a technique in which, no matter how many times the user fires the event, the attached function will be executed only once in a given time interval.
+
+1. Debouncing and throttling techniques are used to limit the number of times a function can execute.
+2. Debouncing and throttling also prevents the server from being bombarded by the API calls.
